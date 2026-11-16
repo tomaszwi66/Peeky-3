@@ -1,0 +1,13 @@
+ollama==0.6.2
+edge-tts==7.3.1
+SpeechRecognition==3.16.1
+faster-whisper==1.2.1
+imageio-ffmpeg==0.6.0
+pygame==2.6.1
+Pillow==12.1.1
+opencv-python==4.13.0.92
+pyperclip==1.11.0
+piper-tts==1.4.2
+numpy==2.4.4
+transformers==5.3.0
+pywin32>=306
